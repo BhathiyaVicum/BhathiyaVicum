@@ -19,40 +19,9 @@ Passionate Software Engineering undergraduate focused on building scalable, mean
 
 ### 🛠️ Tech Stack & Tools
 
-**Programming Languages**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,php" />
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,php,react,tailwind,bootstrap,spring,nodejs,mysql,mongodb,postman,aws,jenkins,docker,kubernetes,git,github,linux,express,fastapi,flask,figma,ps,ai" />
   </a>
-</p>
-
-**Frontend Development**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-  </a>
-</p>
-
-**Design & UI/UX**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-  </a>
-</p>
-
-**Backend & Database**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb,postman" />
-  </a>
-</p>
-
-**DevOps & Infrastructure**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,kubernetes,git,github,linux" />
-  </a>
-</p>
 
 ---
 
