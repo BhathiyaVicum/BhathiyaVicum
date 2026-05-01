@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=500&size=24&duration=4000&color=0E8BF7&lines=Full-Stack+Developer;DevOps+Learner;Cloud+Enthusiast;AI%2FML+Explorer)](https://git.io/typing-svg)
 
-Passionate Software Engineering undergraduate focused on building scalable, meaningful software solutions. Currently diving deep into **DevOps practices, Cloud technologies, and AI/ML** while applying my full-stack development and design skills to create impactful digital experiences.
+Passionate Software Engineering undergraduate focused on building scalable, meaningful sofctware solutions. Currently diving deep into **DevOps practices, Cloud technologies, and AI/ML** while applying my full-stack development and design skills to create impactful digital experiences.
 
 ---
 
@@ -45,6 +45,14 @@ Passionate Software Engineering undergraduate focused on building scalable, mean
 - **AWS Cloud Services** (EC2, S3, Lambda, RDS)
 - **AI/ML Fundamentals** with Python
 - **Containerization** with Docker & Kubernetes
+
+---
+
+## 🤝 Open Source & Collaboration
+
+- 🌍 Open to contributing to meaningful open-source projects
+- 💡 Interested in DevOps, Web Apps, and AI-based solutions
+- 🚀 Always ready to collaborate and learn from the community
 
 ---
 
